@@ -3,7 +3,7 @@
 LeleDesaku adalah aplikasi web sederhana untuk **membantu peternak lele** mencatat keuangan usahanya dengan rapi, tanpa perlu paham akuntansi yang rumit. Peternak cukup mencatat kegiatan harian (beli benih dan pakan, ikan mati, panen, dan penjualan), lalu aplikasi menyusun laporannya secara otomatis.
 
 ## 🔗 Demo Aplikasi
-**Link demo:** [ISI LINK DEMO ANDA DI SINI](https://ISI-LINK-DEMO-ANDA](https://rofiqrk.github.io/LinkLeleDesaku/)
+**Link demo:** [https://rofiqrk.github.io/LinkLeleDesaku/]
 
 > Link ini diisi setelah aplikasi dipublikasikan. Lihat bagian "Cara membuat link demo" di bawah.
 
